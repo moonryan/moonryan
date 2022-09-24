@@ -2,7 +2,7 @@
 - 👀 I'm Interested in data structures and algorithms 
 - 🌱 I’m currently learning Web Development and Python
 
-moonryan.github.io
+https://moonryan.github.io/
 <!--
 **moonryan/moonryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
