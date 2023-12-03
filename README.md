@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm @moonryan 
-- 👀 I'm Interested in data structures and algorithms 
-- 🌱 I’m currently learning Web Development and Python
+- I'm a mathematics student at the University of Waterloo
 
-https://moonryan.github.io/
 <!--
 **moonryan/moonryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
