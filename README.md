@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Statistics, Combinatorics, Optimization @ University of Waterloo
+Statistics @ University of Waterloo
 
 <!--
 **moonryan/moonryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
