@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Ryan Moon
-
-Statistics @ University of Waterloo
+math & philosophy
 
 <!--
 **moonryan/moonryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
